@@ -41,12 +41,63 @@ Topics Covered
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Homework/Mini-Projects, due every 1-2 weeks up until 3 weeks before the end of the term. {{< br >}}{{< br >}} These will involve some programming (MATLAB®) assignments. {{< br >}}{{< br >}}  | 35% |
-| Project | 30% |
-| Midterm Quiz | 25% |
-| Your presence and interaction in lectures (especially your presence during the last two days of project presentations), in recitation, and with the staff outside the classroom | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Homework/Mini-Projects, due every 1-2 weeks up until 3 weeks before the end of the term.
+
+These will involve some programming (MATLAB®) assignments.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Your presence and interaction in lectures (especially your presence during the last two days of project presentations), in recitation, and with the staff outside the classroom
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
